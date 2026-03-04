@@ -1,4 +1,4 @@
-# Develop an application which asks the user to enter a string and prints its statistics as:
+# Develop an application which asks the user to enter a string and prints its statistics as :
 # a) Number of Vowels
 # b) Number of Consonants
 # c) Number of Spaces
