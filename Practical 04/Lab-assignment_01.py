@@ -1,6 +1,6 @@
 # Perform the following operations using Numpy:
 # a) Construct a Python program using NumPy to generate a 4x4 identity matrix.
-# b) Develop a Python program to generate two 3x3 matrices filled with random integers (1 to 9), then perform matrix addition and matrix multiplication.
+# b) Develop a Python program to generate two 3x3 matrices filled with random integers (1 to 9), then perform matrix addition and matrix multiplication..
 
 import numpy as np
 
