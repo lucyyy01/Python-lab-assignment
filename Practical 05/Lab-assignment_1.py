@@ -4,7 +4,7 @@
 # b) Print the last item in the Tuple.
 # c) Print the Tuple elements in reverse order.
 # d) Print Yes if the Tuple contains an integer 5 and No otherwise.
-# e) Remove the first and last items from the Tuple, sort the remaining items, and print the result.
+# e) Remove the first and last items from the Tuple, sort the remaining items, and print the result..
 
 # Input integers from user
 numbers = tuple(map(int, input("Enter integers separated by space: ").split()))
