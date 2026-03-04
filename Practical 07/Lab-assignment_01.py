@@ -1,4 +1,4 @@
-# Create a Menu Driven application "CALC" by implemnting different functions for the following basic operations:
+# Create a Menu Driven application "CALC" by implemnting different functions for the following basic operations :
 # a) Addition
 # b) Subtraction
 # c) Multiplication
